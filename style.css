@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#navegador {
+    text-align: left;
+    border-style: double;
+    border: 1ch;
+    height: 40px;
+    color: white;
+    background-color: black;
+}
+
+#corpo {
+    width: 80%;
+    border-style: double;
+    height: 200px;
+}
+
+#header {
+    width: 80%;
+    border-style: double;
+    height: 80px;
+    background-color: lightblue;
+}
+
+#caixa {
+    overflow: hidden ;
+}
+
+#caixa1 {
+
+}
+
+#caixa2 {
+
+}
+
+#caixa3 {
+
+}
+
+ul,li {
+    list-style: none;
+    display: flex;
+    padding-right: 20px;
+}
+
